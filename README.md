@@ -13,7 +13,7 @@ crew.
 
 ## Trailer
 
-*(YouTube link goes here.)*
+[![Watch the trailer on YouTube](https://img.youtube.com/vi/l8Y9ZZpkxSo/hqdefault.jpg)](https://youtu.be/l8Y9ZZpkxSo)
 
 ## The games
 
