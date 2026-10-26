@@ -1,6 +1,6 @@
 # Le Coque's Casino
 
-*by LeCoqueEnRose* · **[Install from Thunderstore](https://thunderstore.io/c/lethal-company/p/LeCoqRoses/LeCoquesCasino/)** (r2modman / Thunderstore Mod Manager)
+*by LeCoqueEnRose* · **[Install from Thunderstore](https://thunderstore.io/c/lethal-company/p/LeCoqRoses/LeCoquesCasino/)** **Bug reports, help and news: [join the Discord](https://discord.gg/eePsrbqCa)** (r2modman / Thunderstore Mod Manager)
 
 ![Le Coque's Casino](images/01-facade.jpg)
 
